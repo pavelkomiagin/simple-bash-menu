@@ -13,8 +13,16 @@ sudo chmod a+x
 
 ## Examples
 
+### Main menu
+
 ![Main menu](/screenshots/main_menu.png)
+
+### Choose the first task
 
 ![Generate fake emails](/screenshots/generate_fake_emails.png)
 
+### Or choose the third task
+
 ![Make a cup of tea](/screenshots/make_a_cup_of_tea.png)
+
+Enjoy!
